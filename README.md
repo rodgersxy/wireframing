@@ -106,3 +106,29 @@ The type of wireframe to use depends on the project stage and purpose:
 - **High-Fidelity**: Use when the design is nearing completion or ready for client presentation. It’s perfect for testing usability and finalizing the look and feel.  
 
 Both types are essential tools in the design process, each contributing to a seamless transition from concept to implementation.  
+
+
+## Wireframing Tools  
+
+Wireframing tools help designers create and share wireframes efficiently. Below are some of the most popular tools used for wireframing, including a closer look at **Figma**, a highly recommended tool.  
+
+### 1. Figma (Recommended)  
+**Figma** is a cloud-based design and prototyping tool that has become a favorite among designers for wireframing.  Its collaborative features and ease of use make it an excellent choice for both beginners and professionals.  
+
+**Key Features**:  
+- **Real-Time Collaboration**: Allows multiple users to work on the same wireframe simultaneously, making it ideal for team projects.  
+- **Cross-Platform Access**: Works directly in the browser, with desktop apps available for Windows and macOS.  
+- **Pre-Built Templates**: Offers a variety of templates to kickstart the wireframing process.  
+- **Component System**: Enables the creation of reusable design elements, saving time and ensuring consistency.  
+- **Integration**: Works seamlessly with other tools like Slack, Notion, and JIRA.  
+
+**Why Use Figma for Wireframing?**  
+- Simple and intuitive interface for sketching low-fidelity wireframes.  
+- Advanced tools for creating high-fidelity, interactive wireframes.  
+- No need for manual file sharing; everything is stored in the cloud.  
+- Free version available for small teams and individuals.  
+
+**Example Use Case**:   
+A team designing a mobile app can use Figma to collaboratively create a wireframe that includes navigation, content placement, and interactive buttons.  
+
+---  
