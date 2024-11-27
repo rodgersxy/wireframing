@@ -56,3 +56,53 @@ Functionality focuses on the interactive elements of the design, such as buttons
 ---  
 
 Each of these elements works together to create a wireframe that is clear, functional, and user-centered. By addressing these components early in the design process, you can streamline development and avoid costly revisions.  
+
+
+## Types of Wireframes  
+
+Wireframes can be categorized into two main types: **Low-Fidelity** and **High-Fidelity**.   Each type serves a unique purpose in the design process, depending on the stage of development and the level of detail required.  
+
+### 1. Low-Fidelity Wireframes   
+Low-fidelity wireframes are simple, basic sketches that outline the structure and functionality of a design. They focus on layout and content hierarchy rather than fine details.  
+
+**Characteristics**:  
+- Simplistic and quick to create.  
+- Typically hand-drawn or made using basic tools like Balsamiq.   
+- Use placeholders for images and content (e.g., boxes and "Lorem Ipsum" text).  
+
+**When to Use**:  
+- During the brainstorming phase to explore ideas.  
+- When presenting early concepts to stakeholders.  
+- To focus on overall structure without getting distracted by design details.  
+
+**Example**:   
+A black-and-white sketch showing the layout of a homepage with placeholders for the logo, navigation bar, hero section, and footer.  
+
+---
+
+### 2. High-Fidelity Wireframes  
+High-fidelity wireframes are more detailed and closely resemble the final design. They include realistic content, fonts, and sometimes interactivity.  
+
+**Characteristics**:  
+- Precise and visually polished.  
+- Created using advanced design tools like Figma, Adobe XD, or Sketch.  
+- Includes actual images, text, and annotations about functionality.  
+
+**When to Use**:  
+- After the structure is finalized and approved.  
+- When presenting a design for client feedback or testing.  
+- To provide developers with a clear guide for implementation.  
+
+**Example**:    
+A clickable wireframe showing a detailed product page with styled navigation, product images, descriptions, pricing, and a functioning "Add to Cart" button.  
+
+---  
+
+## Choosing the Right Type of Wireframe  
+
+The type of wireframe to use depends on the project stage and purpose:  
+
+- **Low-Fidelity**: Use when exploring concepts and gathering initial feedback. It’s ideal for quick iterations and focusing on structure over design.  
+- **High-Fidelity**: Use when the design is nearing completion or ready for client presentation. It’s perfect for testing usability and finalizing the look and feel.  
+
+Both types are essential tools in the design process, each contributing to a seamless transition from concept to implementation.  
